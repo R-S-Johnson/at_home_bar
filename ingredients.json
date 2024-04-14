@@ -1,0 +1,346 @@
+{
+    "dry gin": {
+        "alc": true,
+        "tags": ["spirit", "botanical", "gin"]
+    },
+    "club soda": {
+        "alc": false,
+        "tags": ["carbonated"]
+    },
+    "angostura bitters": {
+        "alc": true,
+        "tags": ["bitters"]
+    },
+    "pastis": {
+        "alc": true,
+        "tags": ["liqueur", "anise", "liquorice"]
+    },
+    "dry vermouth": {
+        "alc": true,
+        "tags": ["vermouth", "wine"]
+    },
+    "orange bitters": {
+        "alc": true,
+        "tags": ["bitters", "citrus", "orange"]
+    },
+    "orgeat": {
+        "alc": false,
+        "tags": ["sweet", "nutty", "floral"]
+    },
+    "fino sherry": {
+        "alc": true,
+        "tags": ["sherry", "wine"]
+    },
+    "simple syrup": {
+        "alc": false,
+        "tags": ["sweet"]
+    },
+    "lime juice": {
+        "alc": false,
+        "tags": ["citrus"]
+    },
+    "lemon juice": {
+        "alc": false,
+        "tags": ["citrus"]
+    },
+    "maraschino liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "cherry"]
+    },
+    "raspberry liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "raspberry"]
+    },
+    "champagne": {
+        "alc": true,
+        "tags": ["wine", "carbonated"]
+    },
+    "orange juice": {
+        "alc": false,
+        "tags": ["citrus", "sweet"]
+    },
+    "absinthe": {
+        "alc": true,
+        "tags": ["liqueur", "liquorice"]
+    },
+    "grenadine": {
+        "alc": false,
+        "tags": ["sweet", "cherry"]
+    },
+    "cream": {
+        "alc": false,
+        "tags": ["cream", "milk"]
+    },
+    "tennessee whiskey": {
+        "alc": true,
+        "tags": ["spirit", "whiskey", "earthy"]
+    },
+    "genever gin": {
+        "alc": true,
+        "tags": ["spirit", "gin", "botanical"]
+    },
+    "tabasco sauce": {
+        "alc": false,
+        "tags": ["spicy"]
+    },
+    "sugar cubes": {
+        "alc": false,
+        "tags": ["sweet"]
+    },
+    "sweet vermouth": {
+        "alc": true,
+        "tags": ["vermouth", "wine"]
+    },
+    "old tom gin": {
+        "alc": true,
+        "tags": ["spirit", "gin", "botanical"]
+    },
+    "honey": {
+        "alc": false,
+        "tags": ["sweet"]
+    },
+    "ginger ale": {
+        "alc": false,
+        "tags": ["sweet", "carbonated", "ginger"]
+    },
+    "vodka": {
+        "alc": true,
+        "tags": ["spirit", "vodka"]
+    },
+    "triple sec": {
+        "alc": true,
+        "tags": ["liqueur", "citrus", "orange"]
+    },
+    "lillet blanc": {
+        "alc": true,
+        "tags": ["wine", "botanical"]
+    },
+    "galliano": {
+        "alc": true,
+        "tags": ["liqueur", "herbal", "liquorice"]
+    },
+    "dark rum": {
+        "alc": true,
+        "tags": ["spirit", "rum", "earthy"]
+    },
+    "white rum": {
+        "alc": true,
+        "tags": ["spirit", "rum"]
+    },
+    "grapefruit juice": {
+        "alc": false,
+        "tags": ["citrus"]
+    },
+    "blanco tequila": {
+        "alc": true,
+        "tags": ["spirit", "agave", "tequila"]
+    },
+    "rye whiskey": {
+        "alc": true,
+        "tags": ["spirit", "whiskey", "earthy"]
+    },
+    "red wine": {
+        "alc": true,
+        "tags": ["wine"]
+    },
+    "cognac": {
+        "alc": true,
+        "tags": ["brandy"]
+    },
+    "curacao": {
+        "alc": true,
+        "tags": ["liqueur", "orange", "bitter"]
+    },
+    "campari": {
+        "alc": true,
+        "tags": ["liqueur", "bitter", "fruity"]
+    },
+    "prosecco": {
+        "alc": true,
+        "tags": ["wine", "carbonated"]
+    },
+    "anisette liqueur": {
+        "alc": true,
+        "tags": ["anise", "liquorice", "sweet"]
+    },
+    "coffee liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "coffee"]
+    },
+    "pineapple juice": {
+        "alc": false,
+        "tags": ["citrus"]
+    },
+    "melon liqueur": {
+        "alc": true,
+        "tags": ["sweet", "fruity"]
+    },
+    "coca-cola": {
+        "alc": false,
+        "tags": ["sweet", "carbonated"]
+    },
+    "ginger beer": {
+        "alc": false,
+        "tags": ["sweet", "carbonated", "ginger"]
+    },
+    "dubonnet rouge": {
+        "alc": true,
+        "tags": ["sweet", "wine"]
+    },
+    "peach liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "fruity"]
+    },
+    "apple juice": {
+        "alc": false,
+        "tags": ["sweet", "fruity"]
+    },
+    "brandy": {
+        "alc": true,
+        "tags": ["spirit", "earthy"]
+    },
+    "bourbon": {
+        "alc": true,
+        "tags": ["spirit", "earthy"]
+    },
+    "peychaud's bitters": {
+        "alc": true,
+        "tags": ["bitters", "cherry", "liquorice"]
+    },
+    "scotch": {
+        "alc": true,
+        "tags": ["spirit", "earthy"]
+    },
+    "cranberry juice": {
+        "alc": false,
+        "tags": ["sweet", "bitter"]
+    },
+    "sour mix": {
+        "alc": false,
+        "tags": ["sour"]
+    },
+    "cachaca": {
+        "alc": true,
+        "tags": ["spirit", "sweet", "fruity"]
+    },
+    "orange liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "orange", "citrus"]
+    },
+    "rose water": {
+        "alc": false,
+        "tags": ["floral"]
+    },
+    "agave nectar": {
+        "alc": false,
+        "tags": ["sweet", "agave"]
+    },
+    "creme de cassis": {
+        "alc": true,
+        "tags": ["liqueur", "tart", "blackcurrants"]
+    },
+    "passion fruit juice": {
+        "alc": false,
+        "tags": ["sweet", "fruity"]
+    },
+    "honey syrup": {
+        "alc": false,
+        "tags": ["sweet"]
+    },
+    "sake": {
+        "alc": true,
+        "tags": ["spirit", "herbal"]
+    },
+    "reposado tequila": {
+        "alc": true,
+        "tags": ["spirit", "tequila", "agave"]
+    },
+    "benedictine": {
+        "alc": true,
+        "tags": ["liqueur", "herbal"]
+    },
+    "lemon-lime soda": {
+        "alc": false,
+        "tags": ["sweet", "carbonated", "citrus"]
+    },
+    "olive juice": {
+        "alc": false,
+        "tags": ["salty"]
+    },
+    "amontillado sherry": {
+        "alc": true,
+        "tags": ["sherry", "wine"]
+    },
+    "amaretto": {
+        "alc": true,
+        "tags": ["liqueur", "nutty"]
+    },
+    "elderflower liqueur": {
+        "alc": true,
+        "tags": ["liqueur", "floral"]
+    },
+    "peach puree": {
+        "alc": false,
+        "tags": ["sweet", "fruity"]
+    },
+    "tomato juice": {
+        "alc": false,
+        "tags": ["fruity"]
+    },
+    "orange flower water": {
+        "alc": false,
+        "tags": ["floral"]
+    },
+    "worcestershire sauce": {
+        "alc": false,
+        "tags": ["salty"]
+    },
+    "fernet": {
+        "alc": true,
+        "tags": ["liqueur", "bitter", "herbal"]
+    },
+    "irish whiskey": {
+        "alc": true,
+        "tags": ["whiskey", "earthy"]
+    },
+    "green chartreuse": {
+        "alc": true,
+        "tags": ["liqueur", "citrus", "minty"]
+    },
+    "horseradish sauce": {
+        "alc": false,
+        "tags": ["bitter"]
+    },
+    "lemon soda": {
+        "alc": false,
+        "tags": ["carbonated", "sweet", "citrus"]
+    },
+    "cold brew coffee": {
+        "alc": false,
+        "tags": ["coffee"]
+    },
+    "pisco": {
+        "alc": true,
+        "tags": ["spirit", "fruity", "citrus"]
+    },
+    "citrus vodka": {
+        "alc": true,
+        "tags": ["vodka", "citrus"]
+    },
+    "px sherry": {
+        "alc": true,
+        "tags": ["wine", "sherry"]
+    },
+    "stout beer": {
+        "alc": true,
+        "tags": ["beer", "earthy"]
+    },
+    "coconut rum": {
+        "alc": true,
+        "tags": ["rum", "coconut"]
+    },
+    "allspice dram": {
+        "alc": true,
+        "tags": ["liqueur", "allspice"]
+    }
+}
